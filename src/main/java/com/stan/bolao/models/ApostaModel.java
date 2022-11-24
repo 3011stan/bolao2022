@@ -14,6 +14,7 @@ public class ApostaModel {
   @GeneratedValue(strategy = GenerationType.AUTO)
   private Long id;
 
+  @Column(nullable = false)
   private RodadaModel[] rodadas;
 
   public ApostaModel() {
