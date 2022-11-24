@@ -1,4 +1,4 @@
-package com.otaviolube.bolao.models;
+package com.stan.bolao.models;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

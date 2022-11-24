@@ -1,4 +1,4 @@
-package com.otaviolube.bolao;
+package com.stan.bolao;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

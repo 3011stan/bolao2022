@@ -1,4 +1,4 @@
-package com.otaviolube.bolao.controllers;
+package com.stan.bolao.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -7,8 +7,8 @@ import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 
-import com.otaviolube.bolao.models.SelecaoModel;
-import com.otaviolube.bolao.models.SelecaoRepository;
+import com.stan.bolao.models.SelecaoModel;
+import com.stan.bolao.models.SelecaoRepository;
 
 @Controller
 public class SelecaoController {

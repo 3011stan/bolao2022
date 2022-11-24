@@ -1,4 +1,4 @@
-package com.otaviolube.bolao.controllers;
+package com.stan.bolao.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -8,8 +8,8 @@ import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 
-import com.otaviolube.bolao.models.UserModel;
-import com.otaviolube.bolao.models.UserRepository;
+import com.stan.bolao.models.UserModel;
+import com.stan.bolao.models.UserRepository;
 
 @Controller
 public class AuthController {

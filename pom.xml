@@ -8,7 +8,7 @@
 		<version>2.7.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.otaviolube</groupId>
+	<groupId>com.stan</groupId>
 	<artifactId>bolao</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>bolao</name>
